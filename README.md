@@ -1,5 +1,6 @@
 # OLED-lil-guy
-display a set of eyes on an OLED (.96" display was used) and change the response based off touch sensor input, just like patting it on the head!
+display a set of eyes on an OLED (.96" display was used) and change the response based off touch sensor input, just like patting it on the head! <br/>
+this guy was actually a personal project that was fairly simple to make! <br/>
 
 demo video:
 https://github.com/user-attachments/assets/00513765-d36a-4a8e-acfc-bda15d1a9c1a
